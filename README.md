@@ -10,6 +10,10 @@
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-SHUBHAM.K-red?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/SHUBHAM.K)
 [![GitHub](https://img.shields.io/badge/GitHub-shubhamkowachi390--gif-black?style=flat-square&logo=github)](https://github.com/shubhamkowachi390-gif)
+[![Bug Bounty](https://img.shields.io/badge/Bug_Bounty-Learning-00ff41?style=flat-square)](https://tryhackme.com/p/SHUBHAM.K)
+[![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-Lab_Only-ff4d4d?style=flat-square)](#)
+[![Offensive Security](https://img.shields.io/badge/Offensive_Security-Red_Team_Learning-8b5cf6?style=flat-square)](#)
+[![OWASP](https://img.shields.io/badge/OWASP-Top_10-00bfff?style=flat-square)](#)
 
 ---
 
@@ -19,6 +23,19 @@
 - Manual-first learning: understand *why* a bug happens before automating it
 - Networking, HTTP, cookies, and how the web really works
 - Authorized labs and test targets only — never live sites without permission
+
+
+## 🛡️ Bug Bounty & Offensive Security
+
+- **Bug classes I am learning:** XSS, IDOR, SQL Injection, SSRF, CSRF, Business Logic
+- **Pentesting workflow:** Recon → Enumeration → Exploitation (lab only) → Reporting
+- **Bug bounty workflow:** Recon → Map → Find → Prove → Report
+- **Mindset:** Manual first — understand *why* a bug happens, then use tools
+- **Scope discipline:** Authorized labs and test targets only
+
+**Offensive tools — learning / upcoming:** `Nmap` · `Wireshark` · `Burp Suite` *(upcoming)* · `Nuclei` *(upcoming)* · `Hydra` *(lab only)* · `Kali NetHunter`
+
+![Skills](https://skillicons.dev/icons?i=linux,python,rust,html,git,vscode,bash,powershell)
 
 ## 🛠️ Currently Learning
 
@@ -66,6 +83,14 @@ A lab-only tool for finding basic sensitive information and practising brute-for
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamkowachi390-gif&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamkowachi390-gif&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkowachi390-gif&layout=compact&theme=dark&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamkowachi390-gif&theme=github-dark&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=shubhamkowachi390-gif&color=00ff41&style=flat-square)
 
 ## 🌱 My Learning Path
 

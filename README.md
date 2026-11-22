@@ -1,3 +1,9 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,100:00bfff&height=180&section=header&text=ctf_shubh&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="header" />
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Bug+Bounty+Hunter+in+Training;Learning+by+Doing+%7C+Authorized+Labs+Only;Networking+%E2%86%92+Web+%E2%86%92+OWASP+Top+10" alt="Typing animation" />
+</div>
+
 # Hi, I'm Shubham 👋
 
 **ctf_shubh** · Aspiring Bug Bounty Hunter · Learning by doing, in authorized labs only
@@ -63,11 +69,14 @@ A lab-only tool for finding basic sensitive information and practising brute-for
 
 ## 🌱 My Learning Path
 
-1. Web Fundamentals — in progress
-2. OWASP Top 10 — manual labs
-3. Tools — after manual understanding
-4. Real practice, write-ups, then bug bounty programs (VDPs first)
+1. Networking — done
+2. Web Fundamentals — in progress
+3. OWASP Top 10 — manual labs
+4. Tools — after manual understanding
+5. Real practice, write-ups, then bug bounty programs (VDPs first)
 
 ---
 
 *Learning in public, one lab at a time. 🔐*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:00ff41&height=120&section=footer" alt="footer" />

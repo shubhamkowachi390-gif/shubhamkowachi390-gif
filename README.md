@@ -8,7 +8,7 @@
 
 ---
 
-<img src="terminal-whoami.gif" alt="Terminal whoami animation" />
+<img src="terminal-v2.gif" alt="Terminal whoami animation" />
 
 ## 🕵️ The Case File
 

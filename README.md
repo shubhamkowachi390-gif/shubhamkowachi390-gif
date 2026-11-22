@@ -92,6 +92,15 @@ A lab-only tool for finding basic sensitive information and practising brute-for
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shubhamkowachi390-gif&color=00ff41&style=flat-square)
 
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamkowachi390-gif/shubhamkowachi390-gif/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamkowachi390-gif/shubhamkowachi390-gif/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubhamkowachi390-gif/shubhamkowachi390-gif/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🌱 My Learning Path
 
 1. Networking — done

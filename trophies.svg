@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120">
-<rect width="900" height="120" rx="12" fill="#0d1117"/>
-<text x="30" y="45" font-family="monospace" font-size="22" fill="#ffd700">🏆 0x8 Hacker</text>
-<text x="30" y="80" font-family="monospace" font-size="16" fill="#ffffff">TryHackMe · Top 8% · Sapphire League</text>
-<text x="330" y="45" font-family="monospace" font-size="22" fill="#00ff41">🔥 79-day streak</text>
-<text x="330" y="80" font-family="monospace" font-size="16" fill="#ffffff">65+ rooms · AI Security path</text>
-<text x="630" y="45" font-family="monospace" font-size="22" fill="#58a6ff">⭐ Learning in public</text>
-<text x="630" y="80" font-family="monospace" font-size="16" fill="#ffffff">Networking · Web · OWASP</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="110" viewBox="0 0 1200 110">
+<rect width="1200" height="110" rx="12" fill="#0d1117"/>
+<text x="30" y="42" font-family="monospace" font-size="20" fill="#ffd700">🏆 0x8 Hacker</text>
+<text x="30" y="74" font-family="monospace" font-size="15" fill="#ffffff">TryHackMe · Top 8%</text>
+<text x="440" y="42" font-family="monospace" font-size="20" fill="#00ff41">🔥 Daily Streak</text>
+<text x="440" y="74" font-family="monospace" font-size="15" fill="#ffffff">Sapphire League · AI Security</text>
+<text x="850" y="42" font-family="monospace" font-size="20" fill="#58a6ff">⭐ Learning in public</text>
+<text x="850" y="74" font-family="monospace" font-size="15" fill="#ffffff">Networking · Web · OWASP</text>
 </svg>

@@ -1,66 +1,95 @@
-# ctf_shubh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:444444&height=180&section=header&text=L&fontSize=90&fontColor=ffffff&animation=fadeIn" alt="L header" />
 
-Aspiring Bug Bounty Hunter · Learning by doing, in authorized labs only
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-SHUBHAM.K-21262d?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/SHUBHAM.K)
-[![GitHub](https://img.shields.io/badge/GitHub-shubhamkowachi390--gif-21262d?style=flat-square&logo=github)](https://github.com/shubhamkowachi390-gif)
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I+am+L;Detective+Mode+ON;Bug+Bounty+Hunter+in+Training;Observe.+Deduce.+Verify." alt="Typing animation" />
+<br>
+<b>“Justice will prevail.”</b>
+</div>
 
 ---
 
-## About
+```text
+$ whoami
+> ctf_shubh — Shubham
+> Aspiring Bug Bounty Hunter
+> Networking → Web Fundamentals → OWASP Top 10
+> Mode: Manual-first, authorized labs only
+```
 
-I'm Shubham, learning cybersecurity step by step — networking, web fundamentals, and now the OWASP Top 10, by hand in free labs.
+## 🕵️ The Case File
 
-I focus on understanding *why* a bug happens before automating anything, and I only test authorized labs and test targets.
+- **Target:** Web Application Security — XSS, IDOR, SQLi, SSRF, CSRF, Business Logic
+- **Method:** Recon → Map → Find → Prove → Report
+- **Pentest flow:** Recon → Enumeration → Exploitation *(lab only)* → Reporting
+- **Rule:** Evidence first. No proof, no report. Authorized labs only.
 
+## 🛠️ Arsenal
 
-## Detective Mode — L
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00FF41?style=for-the-badge&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-UPCOMING-FF6633?style=for-the-badge)
+![Nuclei](https://img.shields.io/badge/Nuclei-UPCOMING-000000?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-SHUBHAM.K-CC0000?style=for-the-badge&logo=tryhackme)
 
-> *"Justice will prevail."* — thinking like a detective: observe, deduce, verify.
-> Every bug is a case: evidence, hypothesis, proof.
+![Skills](https://skillicons.dev/icons?i=linux,python,rust,html,git,vscode,bash,powershell&theme=dark)
 
-![Death Note](https://img.shields.io/badge/Death_Note-L-000000?style=flat-square)
-![Detective](https://img.shields.io/badge/Detective_Mode-ON-ffffff?style=flat-square&logoColor=black)
-
-[Death Note — L GIF](https://giphy.com/gifs/l-death-note-gynlFCzDBIOyI)
-
-## Focus
-
-- Web Application Security: XSS, IDOR, SQLi, SSRF, CSRF, Business Logic
-- Bug bounty workflow: Recon → Map → Find → Prove → Report
-- Pentesting workflow: Recon → Enumeration → Exploitation (lab only) → Reporting
-
-## Tools
-
-`Nmap` · `Wireshark` · `Kali Linux` · `Kali NetHunter` · `Linux` · `Git` · `VS Code` · `Python` · `Rust` · `HTML`
-
-Burp Suite and Nuclei are next, after manual understanding.
-
-## TryHackMe
+## 📊 Evidence Board
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/SHUBHAM.K.png)](https://tryhackme.com/p/SHUBHAM.K)
 
-Rank: **0x8 Hacker** · Top 8% · Sapphire League · Path: AI Security
+**SHUBHAM.K** · Rank **0x8 Hacker** · Top 8% · Sapphire League · Path: AI Security · [tryhackme.com/p/SHUBHAM.K](https://tryhackme.com/p/SHUBHAM.K)
 
-## Projects
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamkowachi390-gif&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
 
-**AegisScope / NetReconX — v2.0**
-Windows attack-surface and recon suite (Rust + Tauri 2): subdomain enumeration, DNS / SPF / DMARC audit, IP & ASN intel, port latency and sensitive-file checks, 0–100 Attack Surface Score. *Private repository.*
-
-**LeakForce — Lab Edition**
-Lab-only sensitive-information and brute-force practice tool (Python, Rust, HTML, Java).
-[shubhamkowachi390-gif/LeakForce](https://github.com/shubhamkowachi390-gif/LeakForce)
-
-## Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamkowachi390-gif&show_icons=true&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamkowachi390-gif&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkowachi390-gif&layout=compact&theme=dark&hide_border=true)
 
-## Learning Path
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamkowachi390-gif&theme=github-dark&hide_border=true)
 
-1. Networking — done
-2. Web Fundamentals — in progress
-3. OWASP Top 10 — manual labs
-4. Tools — after manual understanding
-5. Real practice, write-ups, then bug bounty programs (VDPs first)
+## 🏆 Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=shubhamkowachi390-gif&theme=onedark&no-frame=true&row=1&column=6)
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamkowachi390-gif/shubhamkowachi390-gif/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamkowachi390-gif/shubhamkowachi390-gif/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubhamkowachi390-gif/shubhamkowachi390-gif/output/github-contribution-grid-snake.svg">
+</picture>
+
+## 🚀 Projects — Case Files
+
+| Project | What it does | Stack |
+|---|---|---|
+| **AegisScope / NetReconX v2.0** | Attack-surface & recon suite, 0–100 score, subdomains, DNS/SPF/DMARC, IP/ASN, port latency | Rust + Tauri 2 *(private)* |
+| **LeakForce — Lab Edition** | Lab-only sensitive-info + brute-force practice | Python, Rust, HTML, Java — [LeakForce](https://github.com/shubhamkowachi390-gif/LeakForce) |
+
+> Both tools are for learning and authorized testing only.
+
+## 🌱 The Investigation Continues
+
+1. Networking — **done**
+2. Web Fundamentals — **in progress**
+3. OWASP Top 10 — **manual labs, next**
+4. Tools — **after manual understanding**
+5. Real practice, write-ups, then bug bounty programs *(VDPs first)*
+
+---
+
+<div align="center">
+<b>L is watching. Every bug leaves evidence.</b><br>
+<i>Learning in public, one lab at a time.</i>
+</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=shubhamkowachi390-gif&color=000000&style=flat-square)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:444444,100:000000&height=120&section=footer" alt="footer" />

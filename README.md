@@ -46,7 +46,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkowachi390-gif&layout=compact&theme=dark&hide_border=true)
 
-![Contribution Chart](https://ghchart.rshah.org/shubhamkowachi390-gif)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamkowachi390-gif&theme=github-dark&hide_border=true&area=true)
 
 ## 🏆 Trophies
 

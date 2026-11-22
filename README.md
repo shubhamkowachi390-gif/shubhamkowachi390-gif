@@ -13,6 +13,17 @@ I'm Shubham, learning cybersecurity step by step — networking, web fundamental
 
 I focus on understanding *why* a bug happens before automating anything, and I only test authorized labs and test targets.
 
+
+## Detective Mode — L
+
+> *"Justice will prevail."* — thinking like a detective: observe, deduce, verify.
+> Every bug is a case: evidence, hypothesis, proof.
+
+![Death Note](https://img.shields.io/badge/Death_Note-L-000000?style=flat-square)
+![Detective](https://img.shields.io/badge/Detective_Mode-ON-ffffff?style=flat-square&logoColor=black)
+
+[Death Note — L GIF](https://giphy.com/gifs/l-death-note-gynlFCzDBIOyI)
+
 ## Focus
 
 - Web Application Security: XSS, IDOR, SQLi, SSRF, CSRF, Business Logic

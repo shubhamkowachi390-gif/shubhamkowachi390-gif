@@ -46,19 +46,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamkowachi390-gif&layout=compact&theme=dark&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamkowachi390-gif&theme=github-dark&hide_border=true)
 
-## 🏆 Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=shubhamkowachi390-gif&theme=onedark&no-frame=true&row=1&column=6)
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamkowachi390-gif/shubhamkowachi390-gif/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shubhamkowachi390-gif/shubhamkowachi390-gif/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shubhamkowachi390-gif/shubhamkowachi390-gif/output/github-contribution-grid-snake.svg">
-</picture>
 
 ## 🚀 Projects — Case Files
 

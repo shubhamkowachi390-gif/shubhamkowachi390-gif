@@ -15,7 +15,7 @@
 - **Target:** Web Application Security — XSS, IDOR, SQLi, SSRF, CSRF, Business Logic
 - **Method:** Recon → Map → Find → Prove → Report
 - **Pentest flow:** Recon → Enumeration → Exploitation *(lab only)* → Reporting
-- **Rule:** Evidence first. No proof, no report. Authorized labs only.
+- **Rule:** Evidence first. No proof, no report.
 
 ## 🛠️ Arsenal
 
@@ -67,7 +67,7 @@
 | **AegisScope / NetReconX v2.0** | Attack-surface & recon suite, 0–100 score, subdomains, DNS/SPF/DMARC, IP/ASN, port latency | Rust + Tauri 2 *(private)* |
 | **LeakForce — Lab Edition** | Lab-only sensitive-info + brute-force practice | Python, Rust, HTML, Java — [LeakForce](https://github.com/shubhamkowachi390-gif/LeakForce) |
 
-> Both tools are for learning and authorized testing only.
+> Built while learning, for practice.
 
 ## 🌱 The Investigation Continues
 

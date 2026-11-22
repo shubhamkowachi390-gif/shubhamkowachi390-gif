@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:444444&height=180&section=header&text=L&fontSize=90&fontColor=ffffff&animation=fadeIn" alt="L header" />
+<img src="banner.jpg" alt="Anime banner" />
+
+# ctf_shubh
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=I+am+L;Detective+Mode+ON;Bug+Bounty+Hunter+in+Training;Observe.+Deduce.+Verify." alt="Typing animation" />
-<br>
-<b>“Justice will prevail.”</b>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=ctf_shubh;Bug+Bounty+Hunter+in+Training;Observe.+Deduce.+Verify." alt="Typing animation" />
 </div>
 
 ---
@@ -86,7 +86,7 @@ $ whoami
 ---
 
 <div align="center">
-<b>L is watching. Every bug leaves evidence.</b><br>
+<b>Every bug leaves evidence.</b><br>
 <i>Learning in public, one lab at a time.</i>
 </div>
 

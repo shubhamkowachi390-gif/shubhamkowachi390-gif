@@ -1,7 +1,9 @@
+<img src="ctf-shubh-banner.png" alt="ctf_shubh banner" />
+
 # ctf_shubh
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=ctf_shubh;Bug+Bounty+Hunter+in+Training;Observe.+Deduce.+Verify." alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=ctf_shubh;Cyber+Security+%26+Offensive+Security;Observe.+Deduce.+Verify." alt="Typing animation" />
 </div>
 
 ---
@@ -9,7 +11,7 @@
 ```text
 $ whoami
 > ctf_shubh — Shubham
-> Aspiring Bug Bounty Hunter
+> Cyber Security & Offensive Security Learner
 > Networking → Web Fundamentals → OWASP Top 10
 > Mode: Manual-first, authorized labs only
 ```
@@ -79,7 +81,7 @@ $ whoami
 2. Web Fundamentals — **in progress**
 3. OWASP Top 10 — **manual labs, next**
 4. Tools — **after manual understanding**
-5. Real practice, write-ups, then bug bounty programs *(VDPs first)*
+5. Real practice, write-ups, then real-world security practice
 
 ---
 

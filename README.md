@@ -1,5 +1,3 @@
-<img src="banner.jpg" alt="Anime banner" />
-
 # ctf_shubh
 
 <div align="center">

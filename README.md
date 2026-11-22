@@ -63,11 +63,10 @@ A lab-only tool for finding basic sensitive information and practising brute-for
 
 ## 🌱 My Learning Path
 
-1. Networking — done
-2. Web Fundamentals — in progress
-3. OWASP Top 10 — manual labs
-4. Tools — after manual understanding
-5. Real practice, write-ups, then bug bounty programs (VDPs first)
+1. Web Fundamentals — in progress
+2. OWASP Top 10 — manual labs
+3. Tools — after manual understanding
+4. Real practice, write-ups, then bug bounty programs (VDPs first)
 
 ---
 

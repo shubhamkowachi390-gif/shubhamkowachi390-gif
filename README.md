@@ -14,7 +14,7 @@
 
 - **Target:** Web Application Security — XSS, IDOR, SQLi, SSRF, CSRF, Business Logic
 - **Method:** Recon → Map → Find → Prove → Report
-- **Pentest flow:** Recon → Enumeration → Exploitation → Reporting
+- **Pentest flow:** Recon → Enumeration → Exploitation *(lab only)* → Reporting
 - **Rule:** Evidence first. No proof, no report.
 
 ## 🛠️ Arsenal
@@ -38,7 +38,7 @@
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/SHUBHAM.K.png)](https://tryhackme.com/p/SHUBHAM.K)
 
-**SHUBHAM.K** · Rank **0x8 Hacker** · Top 8% · Sapphire League · Path: AI Security · [tryhackme.com/p/SHUBHAM.K](https://tryhackme.com/p/SHUBHAM.K)
+**SHUBHAM.K** · Rank **0x8 Hacker** · Top 7% · Sapphire League · Path: AI Security · [tryhackme.com/p/SHUBHAM.K](https://tryhackme.com/p/SHUBHAM.K)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamkowachi390-gif&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
 
@@ -71,16 +71,17 @@
 
 ## 🌱 The Investigation Continues
 
-1. Web Fundamentals — **in progress**
-2. OWASP Top 10 — **manual labs, next**
-3. Tools — **after manual understanding**
-4. Real practice, write-ups, then real-world security practice
+1. Networking — **done**
+2. Web Fundamentals — **in progress**
+3. OWASP Top 10 — **manual labs, next**
+4. Tools — **after manual understanding**
+5. Real practice, write-ups, then real-world security practice
 
 ---
 
 <div align="center">
 <b>Every bug leaves evidence.</b><br>
-<i>Learning , one lab at a time.</i>
+<i>Learning in public, one lab at a time.</i>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shubhamkowachi390-gif&color=000000&style=flat-square)

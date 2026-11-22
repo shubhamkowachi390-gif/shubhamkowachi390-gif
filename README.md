@@ -8,13 +8,7 @@
 
 ---
 
-```text
-$ whoami
-> ctf_shubh — Shubham
-> Cyber Security & Offensive Security Learner
-> Networking → Web Fundamentals → OWASP Top 10
-> Mode: Manual-first, authorized labs only
-```
+<img src="terminal-whoami.gif" alt="Terminal whoami animation" />
 
 ## 🕵️ The Case File
 

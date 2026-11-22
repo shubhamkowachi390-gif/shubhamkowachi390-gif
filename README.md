@@ -52,7 +52,7 @@
 
 ![Trophies](trophies.svg)
 
-## 🐍 Contribution Snake
+## 🐍 Contribution 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamkowachi390-gif/shubhamkowachi390-gif/output/github-contribution-grid-snake-dark.svg">
@@ -71,11 +71,10 @@
 
 ## 🌱 The Investigation Continues
 
-1. Networking — **done**
-2. Web Fundamentals — **in progress**
-3. OWASP Top 10 — **manual labs, next**
-4. Tools — **after manual understanding**
-5. Real practice, write-ups, then real-world security practice
+1. Web Fundamentals — **in progress**
+2. OWASP Top 10 — **manual labs, next**
+3. Tools — **after manual understanding**
+4. Real practice, write-ups, then real-world security practice
 
 ---
 

@@ -1,4 +1,4 @@
-<img src="ctf-shubh-banner.png" alt="ctf_shubh banner" />
+<img src="banner-caps.jpg" alt="ctf_shubh banner" />
 
 # ctf_shubh
 
@@ -14,7 +14,7 @@
 
 - **Target:** Web Application Security — XSS, IDOR, SQLi, SSRF, CSRF, Business Logic
 - **Method:** Recon → Map → Find → Prove → Report
-- **Pentest flow:** Recon → Enumeration → Exploitation → Reporting
+- **Pentest flow:** Recon → Enumeration → Exploitation *(lab only)* → Reporting
 - **Rule:** Evidence first. No proof, no report.
 
 ## 🛠️ Arsenal
@@ -52,7 +52,7 @@
 
 ![Trophies](trophies.svg)
 
-## 🐍 Contribution 
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shubhamkowachi390-gif/shubhamkowachi390-gif/output/github-contribution-grid-snake-dark.svg">
@@ -71,16 +71,17 @@
 
 ## 🌱 The Investigation Continues
 
-1. Web Fundamentals — **in progress**
-2. OWASP Top 10 — **manual labs, next**
-3. Tools — **after manual understanding**
-4. Real practice, write-ups, then real-world security practice
+1. Networking — **done**
+2. Web Fundamentals — **in progress**
+3. OWASP Top 10 — **manual labs, next**
+4. Tools — **after manual understanding**
+5. Real practice, write-ups, then real-world security practice
 
 ---
 
 <div align="center">
 <b>Every bug leaves evidence.</b><br>
-<i>Learning ,one lab at a time.</i>
+<i>Learning in public, one lab at a time.</i>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shubhamkowachi390-gif&color=000000&style=flat-square)

@@ -14,7 +14,7 @@
 
 - **Target:** Web Application Security — XSS, IDOR, SQLi, SSRF, CSRF, Business Logic
 - **Method:** Recon → Map → Find → Prove → Report
-- **Pentest flow:** Recon → Enumeration → Exploitation *(lab only)* → Reporting
+- **Pentest flow:** Recon → Enumeration → Exploitation → Reporting
 - **Rule:** Evidence first. No proof, no report.
 
 ## 🛠️ Arsenal
@@ -80,7 +80,7 @@
 
 <div align="center">
 <b>Every bug leaves evidence.</b><br>
-<i>Learning in public, one lab at a time.</i>
+<i>Learning ,one lab at a time.</i>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shubhamkowachi390-gif&color=000000&style=flat-square)

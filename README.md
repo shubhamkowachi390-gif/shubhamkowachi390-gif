@@ -79,8 +79,8 @@
 ---
 
 <div align="center">
-<b>Every bug leaves evidence.</b><br>
-<i>Learning, one lab at a time.</i>
+<b> ❤️📚.</b><br>
+<i>Learning.</i>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shubhamkowachi390-gif&color=000000&style=flat-square)

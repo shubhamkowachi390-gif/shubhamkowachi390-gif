@@ -79,7 +79,7 @@
 ---
 
 <div align="center">
-<b> ❤️📚.</b><br>
+<b> 🌷🧸 </b><br>
 <i>Learning.</i>
 </div>
 

@@ -1,4 +1,4 @@
-<img src="banner-caps.jpg" alt="ctf_shubh banner" />
+<img src="banner-snow.gif" alt="ctf_shubh banner" />
 
 # ctf_shubh
 

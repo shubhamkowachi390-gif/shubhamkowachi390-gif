@@ -79,8 +79,8 @@
 ---
 
 <div align="center">
-<b> 🌷🧸 </b><br>
-<i>Learning☃️</i>
+<b> ☃️ </b><br>
+<i>Learning</i>
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shubhamkowachi390-gif&color=000000&style=flat-square)

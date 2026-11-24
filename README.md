@@ -36,7 +36,7 @@
 
 ## 📊 Evidence Board
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ctf.shubh.png)](https://tryhackme.com/p/ctf.shubh)
+[![TryHackMe Badge](thm-badge.svg)](https://tryhackme.com/p/ctf.shubh)
 
 **ctf.shubh** · Rank **0x8 Hacker** · Top 7% · Sapphire League · Path: AI Security · [tryhackme.com/p/ctf.shubh](https://tryhackme.com/p/ctf.shubh)
 

@@ -30,7 +30,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-UPCOMING-FF6633?style=for-the-badge)
 ![Nuclei](https://img.shields.io/badge/Nuclei-UPCOMING-000000?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-SHUBHAM.K-CC0000?style=for-the-badge&logo=tryhackme)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-ctf.shubh-CC0000?style=for-the-badge&logo=tryhackme)
 
 ![Skills](https://skillicons.dev/icons?i=linux,python,rust,html,git,vscode,bash,powershell&theme=dark)
 

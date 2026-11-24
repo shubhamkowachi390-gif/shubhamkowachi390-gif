@@ -36,7 +36,7 @@
 
 ## 📊 Evidence Board
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/SHUBHAM.K.png)](https://tryhackme.com/p/SHUBHAM.K)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ctf.shubh.png)](https://tryhackme.com/p/ctf.shubh)
 
 **SHUBHAM.K** · Rank **0x8 Hacker** · Top 7% · Sapphire League · Path: AI Security · [tryhackme.com/p/SHUBHAM.K](https://tryhackme.com/p/SHUBHAM.K)
 

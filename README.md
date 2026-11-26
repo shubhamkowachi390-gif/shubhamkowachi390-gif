@@ -38,7 +38,7 @@
 
 [![TryHackMe Badge](thm-badge.svg)](https://tryhackme.com/p/ctf.shubh)
 
-**ctf.shubh** · Rank **0x8 Hacker** · Top 7% · Sapphire League · Path: AI Security · [tryhackme.com/p/ctf.shubh](https://tryhackme.com/p/ctf.shubh)
+**ctf.shubh** · Rank **0x8 Hacker** · Top 6% · Sapphire League · Path: AI Security · [tryhackme.com/p/ctf.shubh](https://tryhackme.com/p/ctf.shubh)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamkowachi390-gif&show_icons=true&theme=dark&hide_border=true&rank_icon=github)
 
